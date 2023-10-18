@@ -7,6 +7,6 @@ Nashville data cleaning prpject is an extensive data cleaning project that I rec
 SQL Server Managemnt Studio
 
 ## Data Source.
- -[Download here](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+ - [Download here](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 
-The 
+
